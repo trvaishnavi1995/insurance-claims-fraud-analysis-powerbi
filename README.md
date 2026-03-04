@@ -46,5 +46,3 @@ A Star Schema model was implemented with:
 - Certain cities show higher fraud concentration
 - Risk segmentation helps identify high-risk claims
 
-## Dashboard Preview
-![Dashboard](Images/dashboard.png)
